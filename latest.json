@@ -1,9 +1,9 @@
 {
   "product": "owt-portal",
   "host": "myowt.io",
-  "version": "1.11.1",
-  "commit": "046995d",
-  "date": "2026-09-24T14:21:45Z",
+  "version": "1.14.3",
+  "commit": "c553033",
+  "date": "2026-11-25T12:33:11Z",
   "manifest": "SHA256SUMS",
   "signatures": {
     "minisig": "SHA256SUMS.minisig",
@@ -19,6 +19,7 @@
     "img/favicon-32.png",
     "img/favicon-48.png",
     "img/favicon-512.png",
+    "js/contract.js",
     "js/cookie-notice.js",
     "js/i18n.js",
     "js/site-menu.js",
