@@ -1,9 +1,9 @@
 {
   "product": "owt-portal",
   "host": "myowt.io",
-  "version": "1.14.4",
-  "commit": "cdbcaf5",
-  "date": "2026-11-25T12:46:51Z",
+  "version": "1.16.4",
+  "commit": "bad2e78",
+  "date": "2026-11-26T13:47:09Z",
   "manifest": "SHA256SUMS",
   "signatures": {
     "minisig": "SHA256SUMS.minisig",
@@ -19,9 +19,13 @@
     "img/favicon-32.png",
     "img/favicon-48.png",
     "img/favicon-512.png",
+    "img/logo-omega.png",
+    "img/logo-owt.png",
     "js/contract.js",
     "js/cookie-notice.js",
+    "js/dashboard.js",
     "js/i18n.js",
+    "js/nft-card.js",
     "js/site-menu.js",
     "js/wallet-link.js",
     "site.webmanifest"
