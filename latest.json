@@ -1,9 +1,9 @@
 {
   "product": "owt-portal",
   "host": "myowt.io",
-  "version": "1.16.4",
-  "commit": "bad2e78",
-  "date": "2026-11-26T13:47:09Z",
+  "version": "1.17.3",
+  "commit": "b2ba2df",
+  "date": "2026-11-26T22:00:59Z",
   "manifest": "SHA256SUMS",
   "signatures": {
     "minisig": "SHA256SUMS.minisig",

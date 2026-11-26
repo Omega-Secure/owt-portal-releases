@@ -1,0 +1,33 @@
+{
+  "product": "owt-portal",
+  "host": "myowt.io",
+  "version": "1.17.3",
+  "commit": "b2ba2df",
+  "date": "2026-11-26T22:00:59Z",
+  "manifest": "SHA256SUMS",
+  "signatures": {
+    "minisig": "SHA256SUMS.minisig",
+    "mldsa": "SHA256SUMS.mldsa"
+  },
+  "publicKeys": "https://github.com/Omega-Secure/owt-portal-releases/tree/main/keys",
+  "files": [
+    "favicon.ico",
+    "img/apple-touch-icon.png",
+    "img/favicon-16.png",
+    "img/favicon-180.png",
+    "img/favicon-192.png",
+    "img/favicon-32.png",
+    "img/favicon-48.png",
+    "img/favicon-512.png",
+    "img/logo-omega.png",
+    "img/logo-owt.png",
+    "js/contract.js",
+    "js/cookie-notice.js",
+    "js/dashboard.js",
+    "js/i18n.js",
+    "js/nft-card.js",
+    "js/site-menu.js",
+    "js/wallet-link.js",
+    "site.webmanifest"
+  ]
+}
